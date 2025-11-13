@@ -1,0 +1,8 @@
+1. Create a Python script called generate_data.py that generates 5 CSV files with realistic e-commerce data.
+2. Create a Python script called ingest_data.py that connects to a SQLite database ecommerce.db, creates tables, reads the CSVs, and loads them with foreign keys and row-count confirmations.
+3. Create a Python script called analyze_data.py that runs SQL queries on ecommerce.db, saves result CSVs to the output folder, and prints summary insights.
+4. Create a Python script called generate_report.py that reads the output CSV files and produces a styled report.html with executive summary, key tables, trend chart, category breakdown, and customer satisfaction metrics.
+5. Create a comprehensive README.md file covering project description, structure, prerequisites, setup, execution steps, data schema, analysis descriptions, sample insights, technologies, and author info.
+6. Create a requirements.txt file listing all Python dependencies needed for the project.
+7. Create a Prompts.txt file that lists all prompts given to generate the codes.
+
