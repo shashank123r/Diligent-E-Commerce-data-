@@ -115,7 +115,7 @@ These insights refresh each time you regenerate the data; they emulate realistic
 ## Author
 - **Name:** Shashank R (example; replace with actual author if different)
 - **Contact:** shashank@example.com
-- **GitHub:** [github.com/username](https://github.com/shashank123r)
+- **GitHub:** [github.com/shashank123r](https://github.com/shashank123r)
 
 Feel free to update the author section with your real contact information. Contributions and enhancements are welcome!
 
