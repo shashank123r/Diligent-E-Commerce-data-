@@ -113,7 +113,7 @@ These insights refresh each time you regenerate the data; they emulate realistic
 - HTML & CSS (report presentation)
 
 ## Author
-- **Name:** Shashank R (example; replace with actual author if different)
+- **Name:** Shashank R 
 - **Contact:** shashank.r2005@gmail.com
 - **GitHub:** [github.com/shashank123r](https://github.com/shashank123r)
 
