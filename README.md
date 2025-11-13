@@ -117,6 +117,4 @@ These insights refresh each time you regenerate the data; they emulate realistic
 - **Contact:** shashank.r2005@gmail.com
 - **GitHub:** [github.com/shashank123r](https://github.com/shashank123r)
 
-Feel free to update the author section with your real contact information. Contributions and enhancements are welcome!
-
 
